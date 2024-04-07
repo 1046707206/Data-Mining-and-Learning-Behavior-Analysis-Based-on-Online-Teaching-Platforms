@@ -1,0 +1,3 @@
+模型太大提供下载链接：
+ltp_modles:http://ltp.ai/download.html
+选择3.4.0版本
